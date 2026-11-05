@@ -8,7 +8,7 @@ Before starting: avoid eating/drinking for 60 minutes before any THROAT swab.
 	* The usb-c port is for data, not power. Use the DC port.
 	* It will take a few minutes to warm up.
 
-2. If running test by computer: 
+2. *If running test by computer:* 
 	* Open chromium through the terminal with: 
 	```
 	chromium-browser --enable-* features=webBluetooth
@@ -49,16 +49,15 @@ Before starting: avoid eating/drinking for 60 minutes before any THROAT swab.
 14. Verify that the test chamber is not full of bubbles. 
 	* There are seven circular chambers in the test card that surround the central reservoir. Each chamber corresponds to a channel in the testing process.
 	* If there is a bubble in a single chamber, the channel associated with that chamber will be affected. The control chamber is the one at the bottom in the middle.
+	* Air bubbles can be hard to see. Pick up the test card and look at it with a light source behind it. You may want a magnifying glass.
 
 15. Verify that the "button" of the test card is still in the downwards position.
 
 15. Place card in testing device and close lid.
 
 16. Begin the test by either:
-
-* Starting the test through the virus.sucks web interface.
-
-* Pressing the button (will not give you the curve)
+	* Starting the test through the virus.sucks web interface.
+	* Pressing the button (will not give you the curve)
 
 
 A negative test takes 35 minutes. A positive test can take less time, as the test will stop as soon as the positive is detected.
