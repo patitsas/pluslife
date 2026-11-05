@@ -4,17 +4,22 @@
 Before starting: avoid eating/drinking for 60 minutes before any THROAT swab.
 
 1. Check the expiration date on the test. Expired tests are likely to provide invalid results.
-1. Plug in the test device and press the button for it to turn on.
+1. Plug in the minidock testing device.
 	* The usb-c port is for data, not power. Use the DC port.
-	* It will take a few minutes to warm up.
+	* It's a sensitive piece of equipment. Don't plug it into a cheap USB wall adapter. 
+	* Virus.sucks recommends plugging it into a power bank from a reputable manufacturer, just in case there is a power outage.
+2. Press the button on the minidock for it to turn on. The minidock will beep and the power LED will flash red.
+	* It will take about two minutes to warm up. It will beep again once it has warmed up, and the power LED will turn blue.
 
-2. *If running test by computer:* 
-	* Open chromium through the terminal with: 
+2. If running test by computer, connect the minidock to the [Pluslife Analyzer](https://virus.sucks/pluslife_app/) (recommended)
+	* You'll need a Chrome-based browser like Chromium.
+	* If on Linux, open Chromium through the terminal with: 
 	```
 	chromium-browser --enable-* features=webBluetooth
 	```
 	
-	* Then go to virus.sucks and then click Analyzer
+	* Then go to virus.sucks and then click [Analyzer](https://virus.sucks/pluslife_app/)
+	* In the [Pluslife Analyzer](https://virus.sucks/pluslife_app/), you can connect to the minidock via Bluetooth.
 
 3. Wash hands, dry thoroughly, and put on disposable gloves.
 	* The test cards should not be touched with bare hands. The oils of the skin will mess up the test.
@@ -53,11 +58,11 @@ Before starting: avoid eating/drinking for 60 minutes before any THROAT swab.
 
 15. Verify that the "button" of the test card is still in the downwards position.
 
-15. Place card in testing device and close lid.
+15. Place card into the minidock and close lid.
 
 16. Begin the test by either:
 	* Starting the test through the virus.sucks web interface.
-	* Pressing the button (will not give you the curve)
+	* Pressing the button on the minidock (will not give you the curve)
 
 
 A negative test takes 35 minutes. A positive test can take less time, as the test will stop as soon as the positive is detected.
