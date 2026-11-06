@@ -50,9 +50,9 @@
 	* If uncertain, err on the side of less force/mixing than too much!
 	* If you see any air bubbles, put the vial back in the stand and wait 2-5 seconds for the air bubbles to subside.
 
-9. Squeeze droplets into the test card until liquid level in the test card is between the two lines:
+9. Squeeze droplets into the test card, touching the vial top against the side of test card. Fill until liquid level in the test card is between the two lines:
 
-	![](testcardlines.svg)
+	![Shows two lines in the test card between the lid and the test chamber.](testcardlines.svg)
 
 10. Wait 15 seconds. Then screw cap onto the test card. 
 
