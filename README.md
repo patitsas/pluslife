@@ -8,7 +8,7 @@
 1. Plug in the minidock testing device.
 	* The usb-c port is for data, not power. Use the DC port.
 	* It's a sensitive piece of equipment. Don't plug it into a cheap USB wall adapter. 
-	* Virus.sucks recommends plugging it into a power bank from a reputable manufacturer, just in case there is a power outage.
+	* Virus.sucks recommends [plugging it into a power bank](https://virus.sucks/pluslife_en/#tips-and-tricks) from a reputable manufacturer, just in case there is a power outage.
 2. Press the button on the minidock for it to turn on. The minidock will beep and the power LED will flash red.
 	* It will take about two minutes to warm up. It will beep again once it has warmed up, and the power LED will turn blue.
 
@@ -16,7 +16,7 @@
 	* You'll need a Chrome-based browser like Chromium.
 	* If on Linux, open Chromium through the terminal with: 
 	```
-	chromium-browser --enable-* features=webBluetooth
+	chromium-browser --enable-features=WebBluetooth
 	```
 	
 	* Then go to virus.sucks and then click [Analyzer](https://virus.sucks/pluslife_app/)
