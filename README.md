@@ -1,4 +1,4 @@
-# How operate a covid PCR test with a Pluslife Minidock device
+# How to operate a covid PCR test with a Pluslife Minidock device
 
 ## Doing a test
 **Before starting:** avoid eating/drinking for 60 minutes before any throat/cheek swab. The test is sensitive to pH changes due to food/drink.
@@ -86,7 +86,6 @@
 19. Unplug the minidock.
 	* The minidock does not automatically turn off on its own. The heater will keep warming the device indefinitely.
 
-
 ## Interpreting test results
 
 * [Examples of what positive test curves look like](https://www.reddit.com/r/PlusLife/comments/1hpljs5/what_positive_pluslife_tests_look_like/) assembled by 
@@ -105,6 +104,10 @@ u/SomeoneSomewhere1984 on r/PlusLife
 * Two examples of what it looks like if the cap of the test card is not properly sealed: [from u/PartyBelt585](https://www.reddit.com/r/PlusLife/comments/1x2e64n/comment/pfcw6w3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) and [from u/underfullhbox](https://www.reddit.com/r/PlusLife/comments/1xothqx/comment/19s78hj2eq9oh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
 	* The control channel rises quickly, then drops suddenly. After that, it curves upwards like a typical test.  
 * If you're getting unusual results, check out the [r/PlusLife](https://www.reddit.com/r/PlusLife/) subreddit!
+
+## For more information
+* [Virus.sucks](https://virus.sucks/)
+* [r/PlusLife](https://www.reddit.com/r/PlusLife/)
 
 ## References
 * "The SARS-CoV-2 Nucleic Acid Testing Card" manual provided by PlusLife
