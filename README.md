@@ -91,14 +91,19 @@
 
 * [Examples of what positive test curves look like](https://www.reddit.com/r/PlusLife/comments/1hpljs5/what_positive_pluslife_tests_look_like/) by 
 u/SomeoneSomewhere1984 on [r/PlusLife](https://www.reddit.com/r/PlusLife/)
+	* You see a sigmoid ("S") curve in a non-control channel.
 * [Examples of what negative test curves look like](https://www.reddit.com/r/PlusLife/comments/1hplo7g/this_is_what_negative_pluslife_results_look_like/) by 
 u/SomeoneSomewhere1984 on r/PlusLife
+	* Only the control (channel 4) has a sigmoid curve
 * [An example of what a false positive looks like](https://www.reddit.com/r/PlusLife/comments/1xfday7/comment/19rnkrlp97yud/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) provided by u/whatself
+	* Non-control channels go up, but do not look like a sigmoid curve.
 * Examples of what a weak/early positive looks like: 
 	* [provided by u/Secret_Gur5312](https://www.reddit.com/r/PlusLife/comments/1mqal01/example_of_weak_positive): The sigmoid curve is present, but does not surpass the threshold for a positive.
 	* [provided by /u/BlueValk](https://www.reddit.com/r/PlusLife/comments/1uwcmoa/partner_has_symptoms_this_is_an_early_positive/). Also shows an sigmoid which did not surpass the threshold. The individual tested positive 25 hours later.
 * [Examples of what air bubbles look like](https://virus.sucks/pluslife_en/#air-bubble-curves) by Virus.sucks
+	* They look like small waves/wobbles in the line.
 * Two examples of what it looks like if the cap of the test card is not properly sealed: [from u/PartyBelt585](https://www.reddit.com/r/PlusLife/comments/1x2e64n/comment/pfcw6w3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) and [from u/underfullhbox](https://www.reddit.com/r/PlusLife/comments/1xothqx/comment/19s78hj2eq9oh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+	* The control channel rises quickly, then drops suddenly. After that, it curves upwards like a typical test.  
 * If you're getting unusual results, the [r/PlusLife](https://www.reddit.com/r/PlusLife/) subreddit has many more examples!
 
 ## References
