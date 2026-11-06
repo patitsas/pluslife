@@ -4,6 +4,7 @@
 **Before starting:** avoid eating/drinking for 60 minutes before any throat/cheek swab. The test is sensitive to pH changes due to food/drink.
 
 1. Check the expiration date on the test. Expired tests are likely to provide invalid results.
+2. Place the minidock on a level surface.
 1. Plug in the minidock testing device.
 	* The usb-c port is for data, not power. Use the DC port.
 	* It's a sensitive piece of equipment. Don't plug it into a cheap USB wall adapter. 
@@ -59,6 +60,7 @@
 
 13. **Gently** flick the test card 10 times. The goal is to mix it, but not to add air bubbles.
 	* "Flick" is really more tapping it with the back of your finger, rather than spring loading your index finger against your thumb.
+	* Make sure you have a firm grip on the test card when flicking it!
 	* The manual says to "shake it up and down for 10 times in about 5 seconds". You can do that instead, but don't be vigourous! Again, you want to avoid air bubbles.
 
 14. Verify that the test chamber is not full of bubbles. 
@@ -76,6 +78,7 @@
 	* Pressing the button on the minidock (this will not give you the curve)
 
 17. A negative test takes 35 minutes. A positive test can take less time, as the test will stop as soon as the positive is detected.
+	* The minidock will beep again when the test is complete.
 
 18. Once the test is complete, remove the test card and place it in the biohazard bag.
 	* The test card should not be left in the minidock after the test. The liquid inside will slowly evaporate due to the heat of the minidock.
@@ -86,13 +89,24 @@
 
 ## Interpreting test results
 
-* [Examples of what positive test curves look like](https://www.reddit.com/r/PlusLife/comments/1hpljs5/what_positive_pluslife_tests_look_like/)
-* [Examples of what negative test curves look like](https://www.reddit.com/r/PlusLife/comments/1hplo7g/this_is_what_negative_pluslife_results_look_like/)
-* [Virus.sucks FAQ](https://virus.sucks/pluslife_en/)
+* [Examples of what positive test curves look like](https://www.reddit.com/r/PlusLife/comments/1hpljs5/what_positive_pluslife_tests_look_like/) by 
+u/SomeoneSomewhere1984 on [r/PlusLife](https://www.reddit.com/r/PlusLife/)
+* [Examples of what negative test curves look like](https://www.reddit.com/r/PlusLife/comments/1hplo7g/this_is_what_negative_pluslife_results_look_like/) by 
+u/SomeoneSomewhere1984 on r/PlusLife
+* [An example of what a false positive looks like](https://www.reddit.com/r/PlusLife/comments/1xfday7/comment/19rnkrlp97yud/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) provided by u/whatself
+* Examples of what a weak/early positive looks like: 
+	* [provided by u/Secret_Gur5312](https://www.reddit.com/r/PlusLife/comments/1mqal01/example_of_weak_positive): The sigmoid curve is present, but does not surpass the threshold for a positive.
+	* [provided by /u/BlueValk](https://www.reddit.com/r/PlusLife/comments/1uwcmoa/partner_has_symptoms_this_is_an_early_positive/). Also shows an sigmoid which did not surpass the threshold. The individual tested positive 25 hours later.
+* [Examples of what air bubbles look like](https://virus.sucks/pluslife_en/#air-bubble-curves) by Virus.sucks
+* Two examples of what it looks like if the cap of the test card is not properly sealed: [from u/PartyBelt585](https://www.reddit.com/r/PlusLife/comments/1x2e64n/comment/pfcw6w3/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) and [from u/underfullhbox](https://www.reddit.com/r/PlusLife/comments/1xothqx/comment/19s78hj2eq9oh/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+* If you're getting unusual results, the [r/PlusLife](https://www.reddit.com/r/PlusLife/) subreddit has many more examples!
 
 ## References
-* The SARS-CoV-2 Nucleic Acid Testing Card manual provided PlusLife
-* [Virus.sucks FAQ](https://virus.sucks/pluslife_en/)
+* "The SARS-CoV-2 Nucleic Acid Testing Card" manual provided by PlusLife
+* ["Pluslife Mini Dock Cov-19 Test Device"](https://www.youtube.com/watch?v=olI_akQ6lN8) YouTube video provided by Audasia GmbH
+* ["Pluslife COVID Test Overview"](https://www.youtube.com/watch?v=AmLF43wvCvc) by Cooper Kidd
+* ["FAQ"](https://virus.sucks/pluslife_en/) by Virus.sucks
+
 
 ## Contributing to this page
 If you have suggestions for improving this page, I welcome pull requests!
