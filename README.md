@@ -4,7 +4,7 @@
 **Before starting:** avoid eating/drinking for 60 minutes before any throat/cheek swab. The test is sensitive to pH changes due to food/drink.
 
 1. Check the expiration date on the test. Expired tests are likely to provide invalid results.
-2. Place the minidock on a level surface.
+2. Place the minidock on a stable, level surface.
 1. Plug in the minidock testing device.
 	* The usb-c port is for data, not power. Use the DC port.
 	* It's a sensitive piece of equipment. Don't plug it into a cheap USB wall adapter. 
@@ -23,7 +23,7 @@
 	* In the [Pluslife Analyzer](https://virus.sucks/pluslife_app/), you can connect to the minidock via Bluetooth.
 
 3. Wash hands, dry thoroughly, and put on disposable gloves.
-	* The test cards should not be touched with bare hands. The oils of the skin will mess up the test.
+	* The test cards should not be touched with bare hands. The oils of the skin can negatively affect the test.
 
 4. Set up the other components: 
 	1. One vial of buffer solution
@@ -50,11 +50,11 @@
 	* If uncertain, err on the side of less force/mixing than too much!
 	* If you see any air bubbles, put the vial back in the stand and wait 2-5 seconds for the air bubbles to subside.
 
-9. Squeeze droplets into the test card, touching the vial top against the side of test card. Fill until liquid level in the test card is between the two lines:
+9. Squeeze droplets into the test card, touching the vial top against the side of test card's opening. Fill until liquid level in the test card is between the two lines:
 
 	![Shows two lines in the test card between the lid and the test chamber.](testcardlines.svg)
 
-10. Wait 15 seconds. Then screw cap onto the test card. 
+10. Wait 15 seconds. Then screw cap onto the test card. Make sure it is fully screwed on.
 
 11. Press the “button” of the cap of the test card. This will push the liquid into the small circular chambers of the test card.
 
